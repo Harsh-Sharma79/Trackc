@@ -94,7 +94,7 @@ function PageIntro({ eyebrow, title, description, actions }) { return <section c
 function HowToUse() {
   return <section className="howto-section" aria-labelledby="howto-title">
     <div className="howto-copy"><div className="eyebrow">HOW TO USE / 00:28</div><h2 id="howto-title">From upload to actionable feedback.</h2><p>Watch the short walkthrough to understand the contrastive workflow before opening an analysis.</p><div className="howto-points"><span>01 Upload paired audio</span><span>02 Confirm the transcript</span><span>03 Inspect grounded evidence</span></div></div>
-    <div className="howto-video-frame"><video controls preload="metadata" poster="/how-to-use/slide-01.png" aria-label="How to use the Contrastive Speech Analytics workspace"><source src="/how-to-use.mp4" type="video/mp4" />Your browser does not support embedded video.</video><div className="video-caption"><span>DEMO WALKTHROUGH</span><span>Silent captions / 1280 × 720</span></div></div>
+    <div className="howto-video-frame"><video controls preload="metadata" poster="/how-to-use/slide-01.png" aria-label="How to use the Contrastive Speech Analytics workspace"><source src="/how-to-use.mp4" type="video/mp4" />Your browser does not support embedded video.</video><div className="video-caption"><span>DEMO WALKTHROUGH</span><span>Narrated walkthrough / 1280 × 720</span></div></div>
   </section>;
 }
 

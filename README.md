@@ -20,6 +20,8 @@ VITE_API_URL=http://localhost:8000
 
 The typed API adapter calls `POST /api/evaluate` with multipart audio/transcript data and `GET /api/capabilities`. The expected response contract lives in `src/types/evaluation.ts`.
 
+The overview includes a narrated walkthrough at `public/how-to-use.mp4`; the narration script is documented at `docs/how-to-use-narration.md`.
+
 ## Routes
 
 - `/` overview with interactive analysis demonstration
