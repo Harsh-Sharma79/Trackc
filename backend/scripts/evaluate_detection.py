@@ -1,0 +1,17 @@
+"""
+scripts/evaluate_detection.py
+=============================
+Alias/wrapper for scripts/evaluate_detections.py to support singular naming.
+"""
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+# Ensure project root is in sys.path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from scripts.evaluate_detections import main
+
+if __name__ == "__main__":
+    main()

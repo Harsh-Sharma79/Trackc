@@ -1,0 +1,38 @@
+[
+  {
+    "word": "testing",
+    "start": 0.0,
+    "end": 0.35,
+    "aligned": false
+  },
+  {
+    "word": "forced",
+    "start": 0.35,
+    "end": 0.65,
+    "aligned": false
+  },
+  {
+    "word": "alignment",
+    "start": 0.65,
+    "end": 1.1,
+    "aligned": false
+  },
+  {
+    "word": "caching",
+    "start": 1.1,
+    "end": 1.45,
+    "aligned": false
+  },
+  {
+    "word": "and",
+    "start": 1.45,
+    "end": 1.6,
+    "aligned": false
+  },
+  {
+    "word": "fallback",
+    "start": 1.6,
+    "end": 2.0,
+    "aligned": false
+  }
+]

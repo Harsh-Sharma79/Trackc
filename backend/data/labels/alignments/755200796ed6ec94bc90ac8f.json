@@ -1,0 +1,26 @@
+[
+  {
+    "word": "data",
+    "start": 6.4841,
+    "end": 8.2253,
+    "aligned": true
+  },
+  {
+    "word": "raw",
+    "start": 8.8857,
+    "end": 13.5487,
+    "aligned": true
+  },
+  {
+    "word": "speech1",
+    "start": 16.3705,
+    "end": 28.7384,
+    "aligned": true
+  },
+  {
+    "word": "txt",
+    "start": 29.659,
+    "end": 31.24,
+    "aligned": true
+  }
+]

@@ -1,5 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
 node_modules/
-dist/
+frontend/node_modules/
+frontend/dist/
 .env
 .env.*
+!frontend/.env.example
+backend/outputs/*.json
+!backend/outputs/.gitkeep
 .DS_Store
+Thumbs.db

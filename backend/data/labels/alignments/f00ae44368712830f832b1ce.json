@@ -1,0 +1,614 @@
+[
+  {
+    "word": "four",
+    "start": 0.2001,
+    "end": 0.4001,
+    "aligned": true
+  },
+  {
+    "word": "score",
+    "start": 0.4802,
+    "end": 0.7802,
+    "aligned": true
+  },
+  {
+    "word": "and",
+    "start": 0.8603,
+    "end": 0.9803,
+    "aligned": true
+  },
+  {
+    "word": "seven",
+    "start": 1.0603,
+    "end": 1.3604,
+    "aligned": true
+  },
+  {
+    "word": "years",
+    "start": 1.4204,
+    "end": 1.6805,
+    "aligned": true
+  },
+  {
+    "word": "ago",
+    "start": 1.7405,
+    "end": 1.9006,
+    "aligned": true
+  },
+  {
+    "word": "our",
+    "start": 2.0606,
+    "end": 2.1607,
+    "aligned": true
+  },
+  {
+    "word": "fathers",
+    "start": 2.2207,
+    "end": 2.6408,
+    "aligned": true
+  },
+  {
+    "word": "brought",
+    "start": 2.7209,
+    "end": 2.9809,
+    "aligned": true
+  },
+  {
+    "word": "forth",
+    "start": 3.041,
+    "end": 3.321,
+    "aligned": true
+  },
+  {
+    "word": "on",
+    "start": 3.3811,
+    "end": 3.4611,
+    "aligned": true
+  },
+  {
+    "word": "this",
+    "start": 3.5011,
+    "end": 3.6411,
+    "aligned": true
+  },
+  {
+    "word": "continent",
+    "start": 3.7212,
+    "end": 4.2213,
+    "aligned": true
+  },
+  {
+    "word": "a",
+    "start": 4.2613,
+    "end": 4.2813,
+    "aligned": true
+  },
+  {
+    "word": "new",
+    "start": 4.3614,
+    "end": 4.4814,
+    "aligned": true
+  },
+  {
+    "word": "nation",
+    "start": 4.5414,
+    "end": 4.8815,
+    "aligned": true
+  },
+  {
+    "word": "conceived",
+    "start": 4.9415,
+    "end": 5.4617,
+    "aligned": true
+  },
+  {
+    "word": "in",
+    "start": 5.5217,
+    "end": 5.6018,
+    "aligned": true
+  },
+  {
+    "word": "liberty",
+    "start": 5.6818,
+    "end": 6.0219,
+    "aligned": true
+  },
+  {
+    "word": "and",
+    "start": 6.1819,
+    "end": 6.282,
+    "aligned": true
+  },
+  {
+    "word": "dedicated",
+    "start": 6.342,
+    "end": 6.8822,
+    "aligned": true
+  },
+  {
+    "word": "to",
+    "start": 6.9422,
+    "end": 7.0022,
+    "aligned": true
+  },
+  {
+    "word": "the",
+    "start": 7.0622,
+    "end": 7.1422,
+    "aligned": true
+  },
+  {
+    "word": "proposition",
+    "start": 7.1822,
+    "end": 7.8625,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 7.9025,
+    "end": 8.0625,
+    "aligned": true
+  },
+  {
+    "word": "all",
+    "start": 8.2026,
+    "end": 8.3426,
+    "aligned": true
+  },
+  {
+    "word": "men",
+    "start": 8.4426,
+    "end": 8.6027,
+    "aligned": true
+  },
+  {
+    "word": "are",
+    "start": 8.6827,
+    "end": 8.7827,
+    "aligned": true
+  },
+  {
+    "word": "created",
+    "start": 8.8028,
+    "end": 9.2629,
+    "aligned": true
+  },
+  {
+    "word": "equal",
+    "start": 9.3429,
+    "end": 9.643,
+    "aligned": true
+  },
+  {
+    "word": "now",
+    "start": 10.7634,
+    "end": 10.9634,
+    "aligned": true
+  },
+  {
+    "word": "we",
+    "start": 11.0234,
+    "end": 11.1035,
+    "aligned": true
+  },
+  {
+    "word": "are",
+    "start": 11.1835,
+    "end": 11.3035,
+    "aligned": true
+  },
+  {
+    "word": "engaged",
+    "start": 11.3435,
+    "end": 11.8237,
+    "aligned": true
+  },
+  {
+    "word": "in",
+    "start": 11.8837,
+    "end": 11.9637,
+    "aligned": true
+  },
+  {
+    "word": "a",
+    "start": 12.0038,
+    "end": 12.0238,
+    "aligned": true
+  },
+  {
+    "word": "great",
+    "start": 12.0838,
+    "end": 12.3439,
+    "aligned": true
+  },
+  {
+    "word": "civil",
+    "start": 12.4239,
+    "end": 12.704,
+    "aligned": true
+  },
+  {
+    "word": "war",
+    "start": 12.764,
+    "end": 12.944,
+    "aligned": true
+  },
+  {
+    "word": "testing",
+    "start": 13.0241,
+    "end": 13.4642,
+    "aligned": true
+  },
+  {
+    "word": "whether",
+    "start": 13.5042,
+    "end": 13.7443,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 13.7843,
+    "end": 13.9444,
+    "aligned": true
+  },
+  {
+    "word": "nation",
+    "start": 14.0244,
+    "end": 14.3645,
+    "aligned": true
+  },
+  {
+    "word": "or",
+    "start": 14.4845,
+    "end": 14.5846,
+    "aligned": true
+  },
+  {
+    "word": "any",
+    "start": 14.6646,
+    "end": 14.8046,
+    "aligned": true
+  },
+  {
+    "word": "nation",
+    "start": 14.9047,
+    "end": 15.2448,
+    "aligned": true
+  },
+  {
+    "word": "so",
+    "start": 15.3648,
+    "end": 15.4448,
+    "aligned": true
+  },
+  {
+    "word": "conceived",
+    "start": 15.5649,
+    "end": 16.085,
+    "aligned": true
+  },
+  {
+    "word": "and",
+    "start": 16.1651,
+    "end": 16.2851,
+    "aligned": true
+  },
+  {
+    "word": "so",
+    "start": 16.3651,
+    "end": 16.4451,
+    "aligned": true
+  },
+  {
+    "word": "dedicated",
+    "start": 16.6052,
+    "end": 17.1654,
+    "aligned": true
+  },
+  {
+    "word": "can",
+    "start": 17.2254,
+    "end": 17.3854,
+    "aligned": true
+  },
+  {
+    "word": "long",
+    "start": 17.4655,
+    "end": 17.6655,
+    "aligned": true
+  },
+  {
+    "word": "endure",
+    "start": 17.7456,
+    "end": 18.1257,
+    "aligned": true
+  },
+  {
+    "word": "we",
+    "start": 19.206,
+    "end": 19.286,
+    "aligned": true
+  },
+  {
+    "word": "are",
+    "start": 19.3661,
+    "end": 19.5061,
+    "aligned": true
+  },
+  {
+    "word": "met",
+    "start": 19.5261,
+    "end": 19.6862,
+    "aligned": true
+  },
+  {
+    "word": "on",
+    "start": 19.7862,
+    "end": 19.8662,
+    "aligned": true
+  },
+  {
+    "word": "a",
+    "start": 19.9062,
+    "end": 19.9262,
+    "aligned": true
+  },
+  {
+    "word": "great",
+    "start": 19.9863,
+    "end": 20.2463,
+    "aligned": true
+  },
+  {
+    "word": "battlefield",
+    "start": 20.3064,
+    "end": 20.9466,
+    "aligned": true
+  },
+  {
+    "word": "of",
+    "start": 21.0266,
+    "end": 21.1066,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 21.1466,
+    "end": 21.3067,
+    "aligned": true
+  },
+  {
+    "word": "war",
+    "start": 21.3867,
+    "end": 21.5868,
+    "aligned": true
+  },
+  {
+    "word": "we",
+    "start": 22.6871,
+    "end": 22.7671,
+    "aligned": true
+  },
+  {
+    "word": "have",
+    "start": 22.8271,
+    "end": 22.9872,
+    "aligned": true
+  },
+  {
+    "word": "come",
+    "start": 23.0272,
+    "end": 23.2673,
+    "aligned": true
+  },
+  {
+    "word": "to",
+    "start": 23.2873,
+    "end": 23.3673,
+    "aligned": true
+  },
+  {
+    "word": "dedicate",
+    "start": 23.4473,
+    "end": 23.8875,
+    "aligned": true
+  },
+  {
+    "word": "a",
+    "start": 23.9475,
+    "end": 23.9675,
+    "aligned": true
+  },
+  {
+    "word": "portion",
+    "start": 24.0275,
+    "end": 24.4476,
+    "aligned": true
+  },
+  {
+    "word": "of",
+    "start": 24.5277,
+    "end": 24.6077,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 24.6477,
+    "end": 24.8078,
+    "aligned": true
+  },
+  {
+    "word": "field",
+    "start": 24.8678,
+    "end": 25.1679,
+    "aligned": true
+  },
+  {
+    "word": "as",
+    "start": 25.2479,
+    "end": 25.3679,
+    "aligned": true
+  },
+  {
+    "word": "a",
+    "start": 25.4079,
+    "end": 25.428,
+    "aligned": true
+  },
+  {
+    "word": "final",
+    "start": 25.468,
+    "end": 25.728,
+    "aligned": true
+  },
+  {
+    "word": "resting",
+    "start": 25.7681,
+    "end": 26.0682,
+    "aligned": true
+  },
+  {
+    "word": "place",
+    "start": 26.0882,
+    "end": 26.3682,
+    "aligned": true
+  },
+  {
+    "word": "for",
+    "start": 26.4083,
+    "end": 26.5283,
+    "aligned": true
+  },
+  {
+    "word": "those",
+    "start": 26.5683,
+    "end": 26.8284,
+    "aligned": true
+  },
+  {
+    "word": "who",
+    "start": 26.8484,
+    "end": 26.9284,
+    "aligned": true
+  },
+  {
+    "word": "here",
+    "start": 27.0285,
+    "end": 27.2085,
+    "aligned": true
+  },
+  {
+    "word": "gave",
+    "start": 27.2485,
+    "end": 27.5286,
+    "aligned": true
+  },
+  {
+    "word": "their",
+    "start": 27.5486,
+    "end": 27.6887,
+    "aligned": true
+  },
+  {
+    "word": "lives",
+    "start": 27.7687,
+    "end": 28.0488,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 28.1088,
+    "end": 28.2688,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 28.2888,
+    "end": 28.4489,
+    "aligned": true
+  },
+  {
+    "word": "nation",
+    "start": 28.5289,
+    "end": 28.869,
+    "aligned": true
+  },
+  {
+    "word": "might",
+    "start": 28.909,
+    "end": 29.1291,
+    "aligned": true
+  },
+  {
+    "word": "live",
+    "start": 29.1691,
+    "end": 29.4092,
+    "aligned": true
+  },
+  {
+    "word": "it",
+    "start": 30.4495,
+    "end": 30.5295,
+    "aligned": true
+  },
+  {
+    "word": "is",
+    "start": 30.5696,
+    "end": 30.6696,
+    "aligned": true
+  },
+  {
+    "word": "altogether",
+    "start": 30.7896,
+    "end": 31.3498,
+    "aligned": true
+  },
+  {
+    "word": "fitting",
+    "start": 31.4298,
+    "end": 31.7099,
+    "aligned": true
+  },
+  {
+    "word": "and",
+    "start": 31.7899,
+    "end": 31.91,
+    "aligned": true
+  },
+  {
+    "word": "proper",
+    "start": 31.95,
+    "end": 32.3101,
+    "aligned": true
+  },
+  {
+    "word": "that",
+    "start": 32.3701,
+    "end": 32.5102,
+    "aligned": true
+  },
+  {
+    "word": "we",
+    "start": 32.5902,
+    "end": 32.6702,
+    "aligned": true
+  },
+  {
+    "word": "should",
+    "start": 32.7502,
+    "end": 32.9303,
+    "aligned": true
+  },
+  {
+    "word": "do",
+    "start": 32.9703,
+    "end": 33.0503,
+    "aligned": true
+  },
+  {
+    "word": "this",
+    "start": 33.1504,
+    "end": 33.4305,
+    "aligned": true
+  }
+]

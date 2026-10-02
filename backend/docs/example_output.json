@@ -1,0 +1,55 @@
+{
+  "audio_id": "speech1_energy_low_sev5",
+  "transcript": "Four score and seven years ago our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war testing whether that nation or any nation so conceived and so dedicated can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.",
+  "duration": 34.6833125,
+  "rubric_scores": [
+    {
+      "dimension": "pace",
+      "score": 0.7716,
+      "weight": 1.0,
+      "details": "Pace deviation 0.043 nats (mean |log dur-ratio| blended with worst 8-word window)."
+    },
+    {
+      "dimension": "pitch_variation",
+      "score": 0.8608,
+      "weight": 1.0,
+      "details": "Pitch deviation 0.050 nats (mean |log pitch-range-ratio| blended with worst 8-word window)."
+    },
+    {
+      "dimension": "energy_consistency",
+      "score": 0.2577,
+      "weight": 1.0,
+      "details": "Energy deviation 0.678 z-units (mean |energy-delta| blended with worst 8-word window)."
+    },
+    {
+      "dimension": "pause_pattern",
+      "score": 0.7307,
+      "weight": 1.0,
+      "details": "Pause deviation 0.0392 (extra pause fraction 0.046 blended with worst 8-word window 0.032)."
+    }
+  ],
+  "composite_score": 0.6552,
+  "flaw_regions": [
+    {
+      "start": 25.537,
+      "end": 26.678,
+      "flaw_type": "ENERGY_LOW",
+      "severity": 0.6352,
+      "explanation": "[Explanation unavailable – missing template key 'mean_energy_z'] Flaw: ENERGY_LOW, severity: 0.64.",
+      "metadata": {
+        "mean_energy_delta": -2.138
+      }
+    },
+    {
+      "start": 26.878,
+      "end": 27.138,
+      "flaw_type": "ENERGY_LOW",
+      "severity": 0.4026,
+      "explanation": "[Explanation unavailable – missing template key 'mean_energy_z'] Flaw: ENERGY_LOW, severity: 0.40.",
+      "metadata": {
+        "mean_energy_delta": -1.733
+      }
+    }
+  ],
+  "summary": "Overall performance is fair with a composite score of 0.66. Rubric breakdown - pace (0.77), pitch_variation (0.86), energy_consistency (0.26), pause_pattern (0.73). Lowest dimension: energy_consistency (0.26). 2 flaw region(s) detected (ENERGY_LOW)."
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "word": "the",
+    "start": 1.2038,
+    "end": 1.2639,
+    "aligned": true
+  },
+  {
+    "word": "quick",
+    "start": 1.2639,
+    "end": 1.3643,
+    "aligned": true
+  },
+  {
+    "word": "brown",
+    "start": 1.3643,
+    "end": 1.4646,
+    "aligned": true
+  },
+  {
+    "word": "fox",
+    "start": 1.4646,
+    "end": 1.5248,
+    "aligned": true
+  },
+  {
+    "word": "jumps",
+    "start": 1.5248,
+    "end": 1.6251,
+    "aligned": true
+  },
+  {
+    "word": "over",
+    "start": 1.6251,
+    "end": 1.7053,
+    "aligned": true
+  },
+  {
+    "word": "the",
+    "start": 1.7053,
+    "end": 1.7655,
+    "aligned": true
+  },
+  {
+    "word": "lazy",
+    "start": 1.7655,
+    "end": 2.1066,
+    "aligned": true
+  },
+  {
+    "word": "dog",
+    "start": 2.1066,
+    "end": 2.1668,
+    "aligned": true
+  },
+  {
+    "word": "speech",
+    "start": 2.1668,
+    "end": 2.3072,
+    "aligned": true
+  },
+  {
+    "word": "evaluation",
+    "start": 2.3072,
+    "end": 2.5078,
+    "aligned": true
+  },
+  {
+    "word": "is",
+    "start": 2.5078,
+    "end": 2.548,
+    "aligned": true
+  },
+  {
+    "word": "an",
+    "start": 2.548,
+    "end": 2.5881,
+    "aligned": true
+  },
+  {
+    "word": "important",
+    "start": 2.5881,
+    "end": 2.7687,
+    "aligned": true
+  },
+  {
+    "word": "task",
+    "start": 2.7887,
+    "end": 2.869,
+    "aligned": true
+  },
+  {
+    "word": "for",
+    "start": 2.869,
+    "end": 2.9292,
+    "aligned": true
+  },
+  {
+    "word": "public",
+    "start": 2.9292,
+    "end": 3.0495,
+    "aligned": true
+  },
+  {
+    "word": "speaking",
+    "start": 3.0495,
+    "end": 3.2301,
+    "aligned": true
+  },
+  {
+    "word": "coaches",
+    "start": 3.2301,
+    "end": 3.3705,
+    "aligned": true
+  },
+  {
+    "word": "consistent",
+    "start": 3.3705,
+    "end": 3.5712,
+    "aligned": true
+  },
+  {
+    "word": "pace",
+    "start": 3.5712,
+    "end": 3.6514,
+    "aligned": true
+  },
+  {
+    "word": "clear",
+    "start": 3.6514,
+    "end": 3.7517,
+    "aligned": true
+  },
+  {
+    "word": "pronunciation",
+    "start": 3.7517,
+    "end": 4.0125,
+    "aligned": true
+  },
+  {
+    "word": "and",
+    "start": 4.0125,
+    "end": 4.5342,
+    "aligned": true
+  },
+  {
+    "word": "appropriate",
+    "start": 4.5342,
+    "end": 4.7749,
+    "aligned": true
+  },
+  {
+    "word": "pauses",
+    "start": 4.7749,
+    "end": 4.8953,
+    "aligned": true
+  },
+  {
+    "word": "matter",
+    "start": 4.8953,
+    "end": 6.4,
+    "aligned": true
+  }
+]
