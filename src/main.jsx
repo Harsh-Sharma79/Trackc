@@ -84,11 +84,19 @@ function OverviewPage(props) {
   return <div className="page overview-page">
     <PageIntro eyebrow="CONTRASTIVE SPEECH ANALYTICS" title="Inspect the delivery, not just the transcript." description="Compare speech delivery against an aligned ideal, locate acoustic deviations in time, and inspect the evidence behind each evaluation." actions={<><button className="primary-button" onClick={() => navigate('/analyze')}>Analyze Speech <span>↗</span></button><button className="secondary-button" onClick={() => navigate('/dataset')}>Explore Dataset</button></>} />
     <div className="chain-strip"><span>DATA</span><b>→</b><span>ALIGN</span><b>→</b><span>ANALYZE</span><b>→</b><span>GROUND</span><b>→</b><span>EXPLAIN</span><b>→</b><span>SCORE</span></div>
+    <HowToUse />
     <AnalysisWorkspace compact={false} {...props} />
   </div>;
 }
 
 function PageIntro({ eyebrow, title, description, actions }) { return <section className="page-intro"><div><div className="eyebrow">{eyebrow}</div><h1>{title}</h1><p>{description}</p></div><div className="intro-actions">{actions}</div></section>; }
+
+function HowToUse() {
+  return <section className="howto-section" aria-labelledby="howto-title">
+    <div className="howto-copy"><div className="eyebrow">HOW TO USE / 00:28</div><h2 id="howto-title">From upload to actionable feedback.</h2><p>Watch the short walkthrough to understand the contrastive workflow before opening an analysis.</p><div className="howto-points"><span>01 Upload paired audio</span><span>02 Confirm the transcript</span><span>03 Inspect grounded evidence</span></div></div>
+    <div className="howto-video-frame"><video controls preload="metadata" poster="/how-to-use/slide-01.png" aria-label="How to use the Contrastive Speech Analytics workspace"><source src="/how-to-use.mp4" type="video/mp4" />Your browser does not support embedded video.</video><div className="video-caption"><span>DEMO WALKTHROUGH</span><span>Silent captions / 1280 × 720</span></div></div>
+  </section>;
+}
 
 function AnalyzePage({ selectedAnalysis, selectedFeature, setSelectedFeature, selectedFlaw, selectFlaw, currentTime, setCurrentTime, isPlaying, setIsPlaying, config }) {
   const [processing, setProcessing] = useState(false);
