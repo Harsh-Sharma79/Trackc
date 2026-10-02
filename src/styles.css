@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
 
 :root { color-scheme: dark; --bg:#0b0f14; --surface:#111720; --surface-2:#151c24; --surface-3:#1b242e; --border:#27313c; --border-strong:#3a4857; --text:#e5e7eb; --text-2:#a2acb8; --muted:#71808e; --blue:#5cc8ff; --amber:#d4a15c; --red:#d27878; --green:#70c7a4; --violet:#9e91c7; --mono:'IBM Plex Mono', monospace; --sans:'DM Sans', sans-serif; --heading:'IBM Plex Sans', sans-serif; }
 * { box-sizing:border-box; }
